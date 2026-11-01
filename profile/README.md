@@ -1,4 +1,4 @@
-# The BaseLayer Manifesto: Engineering for Agentic Reality (v2.1)
+# The BaseLayer AI Manifesto: Engineering for Agentic Reality (v2.1)
 
 ## I. Our Mission: The Metal of the AI Age
 We are not building another "wrapper." We are building the foundational substrate for the agentic era. To create agents that are truly autonomous, reliable, and performant, we must own the entire vertical stack—from the **Linux Kernel** to the **Client Runtime**. We believe the next leap in AI won't come from better prompts, but from **bespoke infrastructure** designed for the unique computational demands of agentic logic.
